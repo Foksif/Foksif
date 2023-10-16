@@ -1,4 +1,4 @@
-[![header](https://github.com/Foksif/Foksif/blob/main/download.gif)]
+![header](https://github.com/Foksif/Foksif/blob/main/download.gif)
 
 ### Hi there 👋
 
