@@ -1,4 +1,4 @@
-[https://github.com/Foksif/Foksif/download.gif/]
+[https://github.com/Foksif/Foksif/blob/main/download.gif]
 
 ### Hi there 👋
 
