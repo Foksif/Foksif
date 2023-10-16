@@ -1,6 +1,5 @@
 ![header](https://github.com/Foksif/Foksif/blob/main/download.gif)
-
-### Hi there 👋
+I'm FrontEnd and BackEnd developer
 
 <!--
 **Foksif/Foksif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
