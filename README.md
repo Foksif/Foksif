@@ -18,6 +18,9 @@ I am 16 years old, I love JavaScript and java, I live in Russia. Most often I pl
     <a href="https://vk.com/foksfff" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
+    <a href="https://www.twitch.tv/foks_f" target="_blank">
+      <img src="https://foksf.fun/img/github/twitch.png" width="40" height="40" alt="Twitch Badge"/>
+    </a>
   </div>
 
 ---
@@ -36,7 +39,7 @@ I am 16 years old, I love JavaScript and java, I live in Russia. Most often I pl
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="redux" width="40" height="40"/>&nbsp;
 </div>
 
 ---
