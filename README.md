@@ -5,7 +5,7 @@
 
 ### :man_technologist: About me:
 
-I am 16 years old, I love JavaScript and java, I live in Russia. Most often I play games like minecraft or rust. I have a small Minecraft project version 1.20.1 I also do web development with Next JS, React and Express.
+I am 16 years old, I love JavaScript and java. Most often I play games like minecraft or rust. I have a small Minecraft project version 1.20.1 I also do web development with Next JS, React and Express.
 
 ---
 
