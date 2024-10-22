@@ -15,9 +15,6 @@ I am 17 years old, I love JavaScript and java. Most often I play games like mine
     <a href="https://www.youtube.com/channel/UCQWXl4zgc8ISgGTS8ChJHgA" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
     </a> 
-    <a href="https://vk.com/foksfff" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>
     <a href="https://www.twitch.tv/foks_f" target="_blank">
       <img src="https://foksf.fun/img/github/twitch.png" width="40" height="40" alt="Twitch Badge"/>
     </a>
