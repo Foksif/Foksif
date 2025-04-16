@@ -5,7 +5,7 @@
 
 ### :man_technologist: About me:
 
-I am 17 years old, I love JavaScript and java. Most often I play games like minecraft or rust. I have a small Minecraft project version 1.20.1 I also do web development with Next JS, React and Express.
+Hi! I'm a developer with experience in both frontend and backend. I work with React, NestJS, TypeScript, Kotlin, and Tauri. Currently, I'm working on a Minecraft project, where I develop the launcher, backend, plugins, and the website for the project. I enjoy creating efficient and scalable code and working in a team to achieve common goals.
 
 ---
 
