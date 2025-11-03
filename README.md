@@ -16,6 +16,7 @@ Hi! I'm a developer with experience in both frontend and backend. I work with Re
       <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
     </a> 
     <a href="https://www.twitch.tv/foks_f" target="_blank">
+      Twitch
       <img src="https://foksf.fun/img/github/twitch.png" width="40" height="40" alt="Twitch Badge"/>
     </a>
   </div>
