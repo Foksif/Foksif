@@ -25,17 +25,13 @@ Hi! I'm a developer with experience in both frontend and backend. I work with Re
 
 ### 💻 Technologies:
 
-[![inuse](https://skillicons.dev/icons?i=ts,js,html,css,git,github,neovim,linux,go,kotlin,react,nodejs,sass,postgresql,redis,rabbitmq&perline=10)](#)
+[![inuse](https://skillicons.dev/icons?i=ts,js,html,css,git,go,kotlin,react,nodejs,sass,postgresql,redis,rabbitmq&perline=10)](#)
 
 ---
 
 ### 🛠 Tools:
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
-</div>
+[![inuse](https://skillicons.dev/icons?i=github,neovim,linux,figma&perline=10)](#)
 
 ---
 
