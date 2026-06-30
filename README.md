@@ -28,7 +28,7 @@ Hi! I'm a developer with experience in both frontend and backend. I work with Re
 
 ### 💻 Technologies:
 
-[![inuse](https://skillicons.dev/icons?i=ts,js,html,css,git,go,kotlin,react,nodejs,sass,postgresql,redis,rabbitmq&perline=10)](#)
+[![inuse](https://skillicons.dev/icons?i=ts,js,html,css,git,go,c,cpp,kotlin,react,nodejs,sass,postgresql,redis,rabbitmq&perline=10)](#)
 
 ---
 
