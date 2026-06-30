@@ -52,10 +52,15 @@ Hi! I'm a developer with experience in both frontend and backend. I work with Re
 <table>
   <tr>
     <td>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Foksif&theme=dark&background=000000" alt="webDev's Github stats" />
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Foksif&theme=dark&background=000000" alt="GitHub streak stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Foksif&layout=compact&theme=vision-friendly-dark" />
+      <img
+        height="195px"
+        align="right"
+        alt="Top Languages"
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Foksif&langs_count=6&layout=compact&hide_border=true&bg_color=000000&title_color=ff69b4&icon_color=ff69b4&text_color=ffc0cb"
+      />
     </td>
   </tr>
 </table>
