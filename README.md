@@ -53,7 +53,6 @@ Hi! I'm a developer with experience in both frontend and backend. I work with Re
 <div align="center">
    <img
     height="180em"
-    width="420em"
     src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Foksif&langs_count=8&layout=compact&hide_border=true&bg_color=000000&title_color=ff69b4&icon_color=ff69b4&text_color=ffc0cb"
   />
 
