@@ -49,18 +49,20 @@ Hi! I'm a developer with experience in both frontend and backend. I work with Re
 
 ### ⚙️ GitHub stats:
 
-<table>
-  <tr>
-    <td>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Foksif&theme=dark&background=000000" alt="GitHub streak stats" />
-    </td>
-    <td>
-      <img
-        height="195px"
-        align="right"
-        alt="Top Languages"
-        src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Foksif&langs_count=6&layout=compact&hide_border=true&bg_color=000000&title_color=ff69b4&icon_color=ff69b4&text_color=ffc0cb"
-      />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img
+    height="180em"
+    src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Foksif&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=ff69b4&icon_color=ff69b4&text_color=ffc0cb"
+  />
+  <img
+    height="180em"
+    src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Foksif&langs_count=8&layout=compact&hide_border=true&bg_color=000000&title_color=ff69b4&icon_color=ff69b4&text_color=ffc0cb"
+  />
+</div>
+
+<div align="center">
+  <img
+    width="760"
+    src="https://streak-stats.demolab.com?user=Foksif&theme=shadow-pink&hide_border=true&background=000000&ring=ff69b4&fire=ff69b4&currStreakLabel=ffc0cb"
+  />
+</div>
