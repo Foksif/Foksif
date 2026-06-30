@@ -37,7 +37,7 @@ Hi! I'm a developer with experience in both frontend and backend. I work with Re
 
 ### 🧩 Environment:
 
-[![inuse](https://skillicons.dev/icons?i=nixos,linux&perline=10)](#)
+[![inuse](https://skillicons.dev/icons?i=nixos,linux,kitty,fish&perline=10)](#)
 
 - 🖥 OS: NixOS  
 - 🪟 WM/Compositor: Hyprland  
