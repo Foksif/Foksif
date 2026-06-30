@@ -34,7 +34,7 @@ Hi! I'm a developer with experience in both frontend and backend. I work with Re
 
 ### 🛠 Tools:
 
-[![inuse](https://skillicons.dev/icons?i=github,neovim,linux,figma,webstorm&perline=10)](#)
+[![inuse](https://skillicons.dev/icons?i=github,neovim,linux,figma,webstorm,idea&perline=10)](#)
 
 ---
 
