@@ -1,5 +1,5 @@
 
-# Hi i'm Foks_f!
+# Hi i'm foksik!
 
 ---
 
@@ -11,15 +11,18 @@ Hi! I'm a developer with experience in both frontend and backend. I work with Re
 
 ### 🤝 Social links:
 
-  <div id="badges">
-    <a href="https://www.youtube.com/channel/UCQWXl4zgc8ISgGTS8ChJHgA" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
-    </a> 
-    <a href="https://www.twitch.tv/foks_f" target="_blank">
-      Twitch
-      <img src="https://foksf.fun/img/github/twitch.png" width="40" height="40" alt="Twitch Badge"/>
-    </a>
-  </div>
+<div id="badges">
+  <a href="https://youtube.com/@foks_f">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://twitch.tv/foks_f">
+    <img src="https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
+  </a>
+  <a href="https://t.me/foksikDev">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</div>
+
 
 ---
 
